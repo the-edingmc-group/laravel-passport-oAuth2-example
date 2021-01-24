@@ -37,7 +37,7 @@ Now, navigate to `client` app and install
 composer dependencies.
 
 ```
-cd server
+cd client
 composer install
 ```
 
